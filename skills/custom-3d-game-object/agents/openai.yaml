@@ -1,0 +1,4 @@
+interface:
+  display_name: "Custom 3D Game Object"
+  short_description: "Detailed Blender props with economical geometry"
+  default_prompt: "Use $custom-3d-game-object to model my Roblox object, choose the style, and deliver an editable Blender file, FBX, and multi-angle previews."

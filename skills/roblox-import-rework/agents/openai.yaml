@@ -1,0 +1,5 @@
+interface:
+  display_name: "Roblox Import Rework"
+  short_description: "Rework imported structures with scrap materials"
+  default_prompt: "Use $roblox-import-rework to turn my imported model into a generator-ready structure, assign scrap material variants by name prefix, validate it, and remove the processed reference."
+

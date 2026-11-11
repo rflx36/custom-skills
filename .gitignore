@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .env
 *.blend
+!custom-3d-game-object/assets/reference-models/*.blend
 *.blend1
 *.fbx
 *.png

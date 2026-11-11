@@ -2,7 +2,14 @@
 
 ## Visual target and reference images
 
-The owner's arcades, gantry claw, and shredder are primary design benchmarks: compact clean housings, recognizable silhouettes, separate controls and trim, useful mechanical detail, sharp edges, and sparse geometry. External high-budget hero props are not the default standard. Reference files are private, optional study inputs, not dependencies of this skill.
+The owner's arcades, gantry claw, and shredder are primary design benchmarks: compact clean housings, recognizable silhouettes, separate controls and trim, useful mechanical detail, sharp edges, and sparse geometry. External high-budget hero props are not the default standard.
+
+Bundled study files:
+
+- [Junkyard_Arcade_Library_Gantry_Reworked.blend](../assets/reference-models/Junkyard_Arcade_Library_Gantry_Reworked.blend): inspect the **Arcade 1** (broken variant), **Arcade 2**, and **Gantry Claw** collections. Do not use unrelated collections or all prize alternatives as the target asset.
+- [shredderrework.blend](../assets/reference-models/shredderrework.blend): inspect compact cutter geometry, housings, and structural supports.
+
+Use these files to study construction and detail economy when relevant. Read them without overwriting them; create new assets in a separate working file. Their old names and scene unit labels do not override this skill's current naming or scale rules. If the reference files are unavailable, follow the documented conventions and disclose that direct reference comparison was unavailable.
 
 The inspected shredder has five meshes and approximately 1,492 base triangles; this is an observation, not an evaluated export budget. The gantry contains alternate reward layouts: do not count or export them all as one machine.
 
